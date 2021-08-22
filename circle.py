@@ -4,7 +4,7 @@
 
 #YouTube : https://youtube.com/channel/UC7jw9rM4ovrWgnJIzKmJ5Fw
 
-TikTok: tiktok.com/@mojib_rsm
+
 #https://github.com/Mojib-Rsm/M-Bomb
 
 import marshal
