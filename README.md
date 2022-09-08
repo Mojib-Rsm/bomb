@@ -1,7 +1,7 @@
 <h1 align="center">
  <br>
   <a href="https://github.com/Mojib-Rsm/bomb/">
-  <img src="https://circle-tool.mojibrsm.xyz/img/circlelogo.png"
+  <img src="http://bomb-app.themrnews.com/img/bomberlogo.png"
   alt="Tsunami">
   </a><br>
   Mr Bomber (New Version)
@@ -18,11 +18,11 @@
 responsible for any misuse or damage caused by Shadow.**  
 **Please do not use this script for taking Revenge on someone. The script is written only for fair usage.**
 
-**Currently only Bangladesh Robi Circle's are supported.**
+**Currently only Bangladeshi Numbers are supported.**
 
 
 - The application requires active internet connection to contact the APIs
-- You would not be charged for any Circle Info
+- You would not be charged for any Bombing
 - By using this, you agree that you cannot hold the developer responsible for any misuse
 
 ## Compatibility
@@ -36,44 +36,24 @@ Python 3.8.3
 ```
 or any version greater than or equal to 3.4, this script has been tested and confirmed to be supported. For obsolete versions of Python (eg 2.7), use discretion while executing the script as it has not been tested there.
 
-## Features
 
-- API GENERATE
-- API TO NUMBER
-- ID TO NUMBER
-- NUMBER TO ID
-- CIRCLE PIN
-- GET BLOCK LIST
-- AUTO SHOUT
-- JOIN XJOIN
-- AUTO POKE and AUTO COMMENTS
-- FOLLOWING CLEAN
-- FOLLOWER CLEAN
-- FOLLOWER  CHECK
-- FOLLOWING CHECK
-- SHOUT CHECK
-* Made for free and open-source usage, in case of any query feel free to contact
 
 ## Usage Guide
 
 ```
 pkg update -y
 pkg upgrade
-install python -y
-pkg install python2 -y
-pip install aiohttp
+pkg install git -y
+pkg install python -y
 pip install requests
-pip install colorama
-pip install lolcat
-git clone https://github.com/Mojiibrsm/Mr
-cd Mr
+git clone https://github.com/Mojib-Rsm/bomb
+cd bomb
 python Mr.py
-- * Then Select Your Option.
 ```
 <br>One Command:<br>
 
 ```
-pkg update -y && pkg upgrade && pkg install python -y && pkg install python2 -y && pip install aiohttp && pip install requests  && pip install colorama && pip install lolcat && git clone https://github.com/Mojiibrsm/Mr && cd Mr && python Mr.py
+pkg update -y && pkg upgrade && pkg install git -y && pkg install python -y && pip install requests && git clone https://github.com/Mojiibrsm/Mr && cd Mr && python Mr.py
 ```
 
 ## Screenshot
