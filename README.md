@@ -58,7 +58,7 @@ pkg update -y && pkg upgrade && pkg install git -y && pkg install python -y && p
 
 ## Screenshot
 
-<a href="https://github.com/Mojib-Rsm/bomb/blob/main/Mr-Bomber-Logo.jpg"><img alt="Screenshots" title="Screenshots" src="https://github.com/Mojiibrsm/Mr/blob/main/Mr_Tools%20(Mojib%20Rsm).jpg"/></a><br><br>
+<a href="https://github.com/Mojib-Rsm/bomb/blob/main/Mr-Bomber-Logo.jpg"><img alt="Screenshots" title="Screenshots" src="https://github.com/Mojib-Rsm/bomb/blob/main/Mr-Bomber-Logo.jpg"/></a><br><br>
 Yeah, it does show Syntax Error but that doesn't actually matter...<br>
 
 
