@@ -47,13 +47,13 @@ pkg install git -y
 pkg install python -y
 pip install requests
 git clone https://github.com/Mojib-Rsm/bomb
-cd bomb
+cd Mr
 python Mr.py
 ```
 <br>One Command:<br>
 
 ```
-pkg update -y && pkg upgrade && pkg install git -y && pkg install python -y && pip install requests && git clone https://github.com/Mojib-Rsm/bomb && cd bomb && python Mr.py
+pkg update -y && pkg upgrade && pkg install git -y && pkg install python -y && pip install requests && git clone https://github.com/Mojib-Rsm/bomb && cd Mr && python Mr.py
 ```
 
 ## Screenshot
