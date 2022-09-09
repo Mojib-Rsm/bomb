@@ -62,9 +62,9 @@ pkg update -y && pkg upgrade && pkg install git -y && pkg install python -y && p
 Yeah, it does show Syntax Error but that doesn't actually matter...<br>
 
 
-## Contact me  
+## Queries
 
-For Queries: [My Facebook](https://www.facebook.com/Mojiibrsm/)
+For Queries: [Facebook](https://www.facebook.com/Mojiibrsm/)
 <h3 align="left">Contact With Me:</h3>
 <p align="left">
 <a href="https://fb.com/mojiib.rsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mojiibrsm" height="30" width="40" /></a>
